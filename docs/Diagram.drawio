@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nD9eFHGvih43dSM1FaWc">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="13mS3U0eO6rR0pijor0x-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="950" width="950" x="-150" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Fraternity Member&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(opens application in browser)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="140" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-3" edge="1" parent="1" source="13mS3U0eO6rR0pijor0x-5" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="210" as="sourcePoint" />
+            <mxPoint x="270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-6" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="13mS3U0eO6rR0pijor0x-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="210" as="sourcePoint" />
+            <mxPoint x="270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-5" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="22.5" x="227.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Log in&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="80" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Main Dashboard&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(Submits activity or view leaderboard)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="155" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Leaderboard&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(Sort and display rankings)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="190" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;rotation=-30;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="357.32" y="272.68" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Activity submission&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(Description + date)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="70" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-12" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="30" x="155" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-13" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="70" width="30" x="145" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Points System&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(update users points)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="70" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SQLite Database&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(handles dates,&amp;nbsp;activities, points)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="55" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-16" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" value="" vertex="1">
+          <mxGeometry height="60" width="22.5" x="148.75" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-17" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="320" width="150" x="287" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-18" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=12.5;dx=43;notch=0;arrowHead=57;rounded=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="120" width="340" x="-200" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Displays rankings&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="140" x="-130" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="13mS3U0eO6rR0pijor0x-20" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;" value="" vertex="1">
+          <mxGeometry height="220" width="190" x="-80" y="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
